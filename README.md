@@ -5,3 +5,5 @@ The application capitalizes on market inneficiencies by identifying highly corre
 -mean reversion principle
 
 -linear correlation
+
+-alpaca wpi
